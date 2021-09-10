@@ -15,4 +15,4 @@
 ### [COMMUNITY SUPPORT]('https://discord.gg/ssEbUjkENa')
 
 
-- **[Discord]('https://discord.gg/ssEbUjkENa')**
+[Discord]('https://discord.gg/ssEbUjkENa', 'Discord Server')
